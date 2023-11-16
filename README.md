@@ -10,3 +10,4 @@ I have experience with:
 - Javascript
 - HTML
 - CSS
+- Python
