@@ -6,4 +6,4 @@ I have experience with different backend frameworks for creating REST API's and 
 
 I am overall very flexible and always eager to use the latest technology.
 
-If you want to know more about me checkout [my website](https://jarnowieman.nl).
+If you want to know more about me checkout [my website](https://wiemanboy.com).
